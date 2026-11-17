@@ -9,11 +9,11 @@ Proyek ini dikembangkan untuk mengatasi keterbatasan fitur pengurutan dimensi tu
 ## Anggota Kelompok — Penguras Toyagama
 **Fakultas Matematika dan Ilmu Pengetahuan Alam — Universitas Gadjah Mada (2026)**
 
-|           Nama Lengkap        |           NIM         |
-| **Sayidah Afifah Karin**      | `26/576971/PA/24120`  |
-| **Kiara Aisha Putri**         | `26/577981/PA/24208`  |
-| **Audina Dwiyunita Putri**    | `26/57428/PA/24748`   |
-| **Muhammad Ilham Dhiyaulhaq** | `26/577829/PA/24195`  |
+               Nama Lengkap       |           NIM         |
+1. **Sayidah Afifah Karin**       | `26/576971/PA/24120`  |
+2.  **Kiara Aisha Putri**         | `26/577981/PA/24208`  |
+3.  **Audina Dwiyunita Putri**    | `26/57428/PA/24748`   |
+4.  **Muhammad Ilham Dhiyaulhaq** | `26/577829/PA/24195`  |
 
 ---
 
