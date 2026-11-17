@@ -64,9 +64,3 @@ Sumber Dataset: Publik dataset Amazon (amazon-products.csv) dari repositori lumi
     - (opsi 3) Keluar: Mengakhiri eksekusi program.
 
 ---
-
-
-## Teknologi & Struktur Repositori
-- Bahasa Pemrograman: C++ (Standar C++11 atau lebih baru)
-
-- Library Standar: <iostream>, <fstream>, <sstream>, <vector>, <string>, <algorithm>
